@@ -2600,7 +2600,7 @@
                     "y": "273",
                     "properties": {
                         "size": "17",
-                        "text": "有许多选项供你选择"
+                        "text": "有许多语言供你选择"
                     }
                 },
                 {
@@ -2955,20 +2955,20 @@
                     "y": "988",
                     "properties": {
                         "size": "17",
-                        "text": "不同的安全问题 (understand different security issues) ，以及如何在你"
+                        "text": "各种各样的安全性问题 (understand different security issues) ，以及如"
                     }
                 },
                 {
                     "ID": "139",
                     "typeID": "Label",
                     "zOrder": "139",
-                    "measuredW": "170",
+                    "measuredW": "221",
                     "measuredH": "25",
-                    "x": "823",
+                    "x": "820",
                     "y": "1015",
                     "properties": {
                         "size": "17",
-                        "text": "选择的语言中避免它们"
+                        "text": "何在你选择的语言中避免它们"
                     }
                 },
                 {
@@ -3047,13 +3047,13 @@
                     "ID": "145",
                     "typeID": "Label",
                     "zOrder": "145",
-                    "measuredW": "442",
+                    "measuredW": "408",
                     "measuredH": "25",
                     "x": "207",
                     "y": "1230",
                     "properties": {
                         "size": "17",
-                        "text": "并确保你已经遵循了你在此之前学习到的的标准和最佳实践"
+                        "text": "确保你已经遵循了你在此之前学习到的标准和最佳实践"
                     }
                 },
                 {
@@ -3250,13 +3250,13 @@
                     "ID": "160",
                     "typeID": "Label",
                     "zOrder": "160",
-                    "measuredW": "349",
+                    "measuredW": "332",
                     "measuredH": "25",
                     "x": "829",
                     "y": "1454",
                     "properties": {
                         "size": "17",
-                        "text": "了解不同的测试术语，例如 mocks, stubs 等。"
+                        "text": "了解不同的测试术语，例如 mocks, stubs 等"
                     }
                 },
                 {
@@ -3348,20 +3348,20 @@
                     "y": "1264",
                     "properties": {
                         "size": "17",
-                        "text": "而对于其他的，我不想挑起任何争端，所以我不会在这提出更多的建议，"
+                        "text": "而对于其他的，我不想挑起任何争端，所以我不会在此提出更多的建议，"
                     }
                 },
                 {
                     "ID": "168",
                     "typeID": "Label",
                     "zOrder": "168",
-                    "measuredW": "289",
+                    "measuredW": "306",
                     "measuredH": "25",
                     "x": "791",
                     "y": "1290",
                     "properties": {
                         "size": "17",
-                        "text": "所以去都试试，然后选择最合适的几个"
+                        "text": "所以去都试试吧，然后选择最合适的几个"
                     }
                 },
                 {
@@ -3452,13 +3452,13 @@
                     "ID": "175",
                     "typeID": "Label",
                     "zOrder": "175",
-                    "measuredW": "422",
+                    "measuredW": "439",
                     "measuredH": "25",
                     "x": "203",
                     "y": "1099",
                     "properties": {
                         "size": "17",
-                        "text": "它们 (there are many different driven by community) 等"
+                        "text": "它们 (there are many different driven by community) 等。"
                     }
                 },
                 {
@@ -3528,7 +3528,7 @@
                     "properties": {
                         "bold": "true",
                         "size": "16",
-                        "text": "学习关系式数据库 (Relational Databases)"
+                        "text": "学习关系型数据库 (Relational Databases)"
                     }
                 },
                 {
@@ -3685,13 +3685,13 @@
                     "ID": "191",
                     "typeID": "Label",
                     "zOrder": "191",
-                    "measuredW": "136",
+                    "measuredW": "255",
                     "measuredH": "25",
                     "x": "382",
                     "y": "1686",
                     "properties": {
                         "size": "17",
-                        "text": "的区别和使用环境"
+                        "text": "存在着什么样的区别以及使用环境"
                     }
                 },
                 {
@@ -3795,13 +3795,13 @@
                     "ID": "199",
                     "typeID": "Label",
                     "zOrder": "199",
-                    "measuredW": "238",
+                    "measuredW": "289",
                     "measuredH": "25",
                     "x": "829",
                     "y": "1788",
                     "properties": {
                         "size": "17",
-                        "text": "公开页面将显示他们发布的文章"
+                        "text": "然后公开页面将显示他们发布的文章。"
                     }
                 },
                 {
@@ -3976,13 +3976,13 @@
                     "ID": "212",
                     "typeID": "Label",
                     "zOrder": "212",
-                    "measuredW": "459",
+                    "measuredW": "544",
                     "measuredH": "25",
                     "x": "804",
                     "y": "1884",
                     "properties": {
                         "size": "17",
-                        "text": "基于你的项目以及你所选择的语言，你可能不需要一个框架。"
+                        "text": "基于你的项目以及你所选择的语言，你可能需要也可能不需要一个框架。"
                     }
                 },
                 {
@@ -4176,7 +4176,7 @@
                     "properties": {
                         "bold": "true",
                         "size": "17",
-                        "text": "学习一种非关系式数据库 (NoSQL Database)"
+                        "text": "学习一种非关系型数据库 (NoSQL Database)"
                     }
                 },
                 {
@@ -4214,13 +4214,13 @@
                     "typeID": "Label",
                     "zOrder": "229",
                     "w": "574",
-                    "measuredW": "136",
+                    "measuredW": "357",
                     "measuredH": "25",
                     "x": "166",
                     "y": "2144",
                     "properties": {
                         "size": "17",
-                        "text": "之间有什么不同。"
+                        "text": "尝试下这些数据库，了解它们之间有什么不同。"
                     }
                 },
                 {
@@ -4248,7 +4248,7 @@
                     "y": "2091",
                     "properties": {
                         "size": "17",
-                        "text": "首先理解它们是什么，它们和关系式数据库有什么区别，以及为什么需要它"
+                        "text": "首先理解它们是什么，它们和关系型数据库有什么区别，以及为什么需要它"
                     }
                 },
                 {
@@ -4256,13 +4256,13 @@
                     "typeID": "Label",
                     "zOrder": "232",
                     "w": "574",
-                    "measuredW": "561",
+                    "measuredW": "272",
                     "measuredH": "25",
                     "x": "165",
                     "y": "2117",
                     "properties": {
                         "size": "17",
-                        "text": "们。有好几种不同的方案可以供你选择。简单浏览下这些数据库，了解它们"
+                        "text": "们。有几种不同的方案可以供你选择"
                     }
                 },
                 {
@@ -4540,13 +4540,13 @@
                     "typeID": "Label",
                     "zOrder": "251",
                     "w": "574",
-                    "measuredW": "408",
+                    "measuredW": "493",
                     "measuredH": "25",
                     "x": "166",
                     "y": "2651",
                     "properties": {
                         "size": "17",
-                        "text": "学习消息代理的知识，了解使用它的原因并选择一个。"
+                        "text": "学习消息代理的知识，了解为什么需要使用它们，然后选择一个。"
                     }
                 },
                 {
@@ -4596,13 +4596,13 @@
                     "typeID": "Label",
                     "zOrder": "255",
                     "w": "574",
-                    "measuredW": "450",
+                    "measuredW": "501",
                     "measuredH": "25",
                     "x": "165",
                     "y": "2679",
                     "properties": {
                         "size": "17",
-                        "text": "有很多的工具可以选择，不过我选择 *RabbitMQ* 或 *Kafka*。"
+                        "text": "有很多的方案可以选择，不过我个人会选择 *RabbitMQ* 或 *Kafka*。"
                     }
                 },
                 {
@@ -4642,13 +4642,13 @@
                     "typeID": "Label",
                     "zOrder": "258",
                     "w": "574",
-                    "measuredW": "404",
+                    "measuredW": "472",
                     "measuredH": "25",
                     "x": "166",
                     "y": "2707",
                     "properties": {
                         "size": "17",
-                        "text": "如果你想要选择一个的话，现在先去学习 RabbitMQ。"
+                        "text": "如果你想要选择一个的话，现在先去学习如何使用 RabbitMQ。"
                     }
                 },
                 {
@@ -4791,13 +4791,13 @@
                     "typeID": "Label",
                     "zOrder": "268",
                     "w": "574",
-                    "measuredW": "221",
+                    "measuredW": "272",
                     "measuredH": "25",
                     "x": "165",
                     "y": "2854",
                     "properties": {
                         "size": "17",
-                        "text": "每一个都有它们的不同之处。"
+                        "text": "它们之间都有属于自己的不同之处。"
                     }
                 },
                 {
@@ -4878,13 +4878,13 @@
                     "typeID": "Label",
                     "zOrder": "274",
                     "w": "574",
-                    "measuredW": "259",
+                    "measuredW": "276",
                     "measuredH": "25",
                     "x": "803",
                     "y": "2410",
                     "properties": {
                         "size": "17",
-                        "text": "撰写原始论文中涉及 REST 的部分"
+                        "text": "撰写的原始论文中涉及 REST 的部分"
                     }
                 },
                 {
@@ -4950,13 +4950,13 @@
                     "typeID": "Label",
                     "zOrder": "279",
                     "w": "495",
-                    "measuredW": "238",
+                    "measuredW": "272",
                     "measuredH": "25",
                     "x": "804",
                     "y": "2508",
                     "properties": {
                         "size": "17",
-                        "text": "了解它们的区别和如何实现它们"
+                        "text": "了解它们的区别，以及如何实现它们"
                     }
                 },
                 {
@@ -5470,7 +5470,7 @@
                     "y": "3356",
                     "properties": {
                         "size": "17",
-                        "text": "再说一次，这不是必须的，不过你应该至少对它有一些了解，至少知道他能"
+                        "text": "再说一次，这不是必须的，不过你应该至少对它有一些了解，至少知道它们"
                     }
                 },
                 {
@@ -5478,13 +5478,13 @@
                     "typeID": "Label",
                     "zOrder": "314",
                     "w": "574",
-                    "measuredW": "51",
+                    "measuredW": "68",
                     "measuredH": "25",
                     "x": "267",
                     "y": "3383",
                     "properties": {
                         "size": "17",
-                        "text": "做什么"
+                        "text": "能做什么"
                     }
                 },
                 {

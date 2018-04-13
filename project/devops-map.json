@@ -228,7 +228,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "²Ù×÷ÏµÍ³"
+                        "text": "æ“ä½œç³»ç»Ÿ"
                     }
                 },
                 {
@@ -304,7 +304,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "ÔÆ·şÎñ"
+                        "text": "äº‘æœåŠ¡"
                     }
                 },
                 {
@@ -552,7 +552,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "×Ô¶¯»¯"
+                        "text": "è‡ªåŠ¨åŒ–"
                     }
                 },
                 {
@@ -736,7 +736,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "³ÖĞø¼¯³É/Éè¼Æ (CI / CD)"
+                        "text": "æŒç»­é›†æˆ/è®¾è®¡ (CI / CD)"
                     }
                 },
                 {
@@ -1059,7 +1059,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "¼à²âÓë¾¯±¨"
+                        "text": "ç›‘æµ‹ä¸è­¦æŠ¥"
                     }
                 },
                 {
@@ -1427,7 +1427,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "ÈİÆ÷ (Containers)"
+                        "text": "å®¹å™¨ (Containers)"
                     }
                 },
                 {
@@ -1628,7 +1628,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "¼¯Èº¹ÜÀí"
+                        "text": "é›†ç¾¤ç®¡ç†"
                     }
                 },
                 {
@@ -2026,7 +2026,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "ÈÈ°®ÖÕ¶Ë"
+                        "text": "çƒ­çˆ±ç»ˆç«¯"
                     }
                 },
                 {
@@ -2164,7 +2164,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "Web ·şÎñÆ÷"
+                        "text": "Web æœåŠ¡å™¨"
                     }
                 },
                 {
@@ -2300,7 +2300,7 @@
                     "x": "1294",
                     "y": "940",
                     "properties": {
-                        "text": "Çø±ğ£¬ÒÔ¼°Ê²Ã´Ê±ºò\nÊ¹ÓÃÊ²Ã´"
+                        "text": "åŒºåˆ«ï¼Œä»¥åŠä»€ä¹ˆæ—¶å€™\nä½¿ç”¨ä»€ä¹ˆ"
                     }
                 },
                 {
@@ -2316,7 +2316,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "ÅäÖÃ·´Ïò´úÀí (Nginx ..)"
+                        "text": "é…ç½®åå‘ä»£ç† (Nginx ..)"
                     }
                 },
                 {
@@ -2470,7 +2470,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "ÅäÖÃ»º´æ·şÎñÆ÷ (Squid, Nginx ..)"
+                        "text": "é…ç½®ç¼“å­˜æœåŠ¡å™¨ (Squid, Nginx ..)"
                     }
                 },
                 {
@@ -2516,7 +2516,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "ÅäÖÃ¸ºÔØ¾ùºâÆ÷ (HAProxy, Nginx ..)"
+                        "text": "é…ç½®è´Ÿè½½å‡è¡¡å™¨ (HAProxy, Nginx ..)"
                     }
                 },
                 {
@@ -2562,7 +2562,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "´ÓÔ´´úÂë±àÒëÓ¦ÓÃ£¨gcc, make ÒÔ¼°ÆäËûÏà¹Ø¼¼ÄÜ£©"
+                        "text": "ä»æºä»£ç ç¼–è¯‘åº”ç”¨ï¼ˆgcc, make ä»¥åŠå…¶ä»–ç›¸å…³æŠ€èƒ½ï¼‰"
                     }
                 },
                 {
@@ -2608,7 +2608,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "¹ØÓÚ²»Í¬ÎÄ¼şÏµÍ³µÄÖªÊ¶"
+                        "text": "å…³äºä¸åŒæ–‡ä»¶ç³»ç»Ÿçš„çŸ¥è¯†"
                     }
                 },
                 {
@@ -2624,7 +2624,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "OSI Ä£ĞÍ£¬TCP/IP/UDP ³£ÓÃ¶Ë¿Ú"
+                        "text": "OSI æ¨¡å‹ï¼ŒTCP/IP/UDP å¸¸ç”¨ç«¯å£"
                     }
                 },
                 {
@@ -2730,7 +2730,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "ÅäÖÃ·À»ğÇ½"
+                        "text": "é…ç½®é˜²ç«å¢™"
                     }
                 },
                 {
@@ -2746,7 +2746,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "ÃüÁî/¹¤¾ß"
+                        "text": "å‘½ä»¤/å·¥å…·"
                     }
                 },
                 {
@@ -2791,7 +2791,7 @@
                     "y": "1482",
                     "properties": {
                         "size": "17",
-                        "text": "awk, sed, grep, sort, uniq, cat, cut, echo, fmt, tr, nl, egrep, fgrep, wc µÈ"
+                        "text": "awk, sed, grep, sort, uniq, cat, cut, echo, fmt, tr, nl, egrep, fgrep, wc ç­‰"
                     }
                 },
                 {
@@ -2807,7 +2807,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "ÎÄ±¾²Ù×÷"
+                        "text": "æ–‡æœ¬æ“ä½œ"
                     }
                 },
                 {
@@ -2822,7 +2822,7 @@
                     "y": "1479",
                     "properties": {
                         "size": "17",
-                        "text": "ps, top, htop, atop µÈ"
+                        "text": "ps, top, htop, atop ç­‰"
                     }
                 },
                 {
@@ -2838,7 +2838,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "½ø³Ì¼à¿Ø"
+                        "text": "è¿›ç¨‹ç›‘æ§"
                     }
                 },
                 {
@@ -2853,7 +2853,7 @@
                     "y": "1559",
                     "properties": {
                         "size": "17",
-                        "text": "nmon, iostat, sar, vmstat µÈ"
+                        "text": "nmon, iostat, sar, vmstat ç­‰"
                     }
                 },
                 {
@@ -2869,7 +2869,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "ÏµÍ³ĞÔÄÜ"
+                        "text": "ç³»ç»Ÿæ€§èƒ½"
                     }
                 },
                 {
@@ -2884,7 +2884,7 @@
                     "y": "1479",
                     "properties": {
                         "size": "17",
-                        "text": "nmap, tcpdump, ping, mtr, traceroute, airmon, airodump µÈ"
+                        "text": "nmap, tcpdump, ping, mtr, traceroute, airmon, airodump ç­‰"
                     }
                 },
                 {
@@ -2900,7 +2900,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "ÍøÂç"
+                        "text": "ç½‘ç»œ"
                     }
                 },
                 {
@@ -2992,7 +2992,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "µ±»µÊÂ·¢ÉúÊ±½øĞĞÊÂºó·ÖÎö (Postmortem analysis)"
+                        "text": "å½“åäº‹å‘ç”Ÿæ—¶è¿›è¡Œäº‹ååˆ†æ (Postmortem analysis)"
                     }
                 },
                 {
@@ -3344,7 +3344,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "ÈÕÖ¾¹ÜÀíÓë·ÖÎö"
+                        "text": "æ—¥å¿—ç®¡ç†ä¸åˆ†æ"
                     }
                 },
                 {
@@ -4076,7 +4076,7 @@
                     "x": "814",
                     "y": "26",
                     "properties": {
-                        "text": "·­Òë£ºccloli",
+                        "text": "ç¿»è¯‘ï¼šccloli",
                         "size": "18",
                         "color": "2848996",
                         "textOrientation": "right",

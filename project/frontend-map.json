@@ -2403,13 +2403,13 @@
                     "ID": "102",
                     "typeID": "Label",
                     "zOrder": "102",
-                    "measuredW": "408",
+                    "measuredW": "391",
                     "measuredH": "25",
                     "x": "295",
                     "y": "1067",
                     "properties": {
                         "size": "17",
-                        "text": "的方式去学习，以及了解你是否正走在正确的道路上。"
+                        "text": "的学习方式，以及让你认识到自己是否走在正确的道"
                     }
                 },
                 {
@@ -2422,20 +2422,20 @@
                     "y": "1092",
                     "properties": {
                         "size": "17",
-                        "text": "有很多人会很热心地帮助你学习，你将会为此而感到"
+                        "text": "路上。有很多人会很热心地帮助你学习，你可能会为"
                     }
                 },
                 {
                     "ID": "104",
                     "typeID": "Label",
                     "zOrder": "104",
-                    "measuredW": "51",
+                    "measuredW": "119",
                     "measuredH": "25",
                     "x": "295",
                     "y": "1117",
                     "properties": {
                         "size": "17",
-                        "text": "震惊。"
+                        "text": "此而感到惊叹。"
                     }
                 },
                 {
@@ -2458,7 +2458,7 @@
                     "ID": "106",
                     "typeID": "Label",
                     "zOrder": "106",
-                    "measuredW": "357",
+                    "measuredW": "353",
                     "measuredH": "23",
                     "x": "322",
                     "y": "1153",
@@ -2466,7 +2466,7 @@
                         "bold": "true",
                         "color": "10027263",
                         "size": "15",
-                        "text": "不要对 git 感到害怕，这是你之前所学习的内容中最简"
+                        "text": "不要害怕学习 git，这将是你之前所学习的内容中最简"
                     }
                 },
                 {
@@ -2764,7 +2764,7 @@
                     "y": "1663",
                     "properties": {
                         "size": "17",
-                        "text": "CSS 不能做到的事。学习它们的其中一项，然后了解他们能给"
+                        "text": "CSS 不能做到的事。学习它们中的其中一个，了解它们能够给"
                     }
                 },
                 {
@@ -2825,13 +2825,13 @@
                     "ID": "132",
                     "typeID": "Label",
                     "zOrder": "132",
-                    "measuredW": "371",
+                    "measuredW": "368",
                     "measuredH": "25",
                     "x": "930",
                     "y": "1658",
                     "properties": {
                         "size": "17",
-                        "text": "CSS 的 \"Babel\"。你也可以在 Sass 之上使用它。"
+                        "text": "CSS 的“Babel”。你也可以在 Sass 之上使用它。"
                     }
                 },
                 {
@@ -3004,7 +3004,7 @@
                     "y": "1051",
                     "properties": {
                         "size": "17",
-                        "text": "包管理工具帮助你将额外的库和插件加入到你的项"
+                        "text": "包管理工具帮助你将额外的库和插件引入到你的项"
                     }
                 },
                 {
@@ -3024,13 +3024,13 @@
                     "ID": "146",
                     "typeID": "Label",
                     "zOrder": "146",
-                    "measuredW": "323",
+                    "measuredW": "289",
                     "measuredH": "25",
                     "x": "861",
                     "y": "1103",
                     "properties": {
                         "size": "17",
-                        "text": "或者解决麻烦的依赖更新地狱，等等等等。"
+                        "text": "或者解决麻烦的依赖更新，等等等等。"
                     }
                 },
                 {
@@ -3180,7 +3180,7 @@
                     "y": "1454",
                     "properties": {
                         "size": "17",
-                        "text": "玩弄其他的配置项 (play with different options)，以及了解如何安装不同的版本"
+                        "text": "玩玩其他的配置项 (play with different options)，以及了解如何安装不同的版本"
                     }
                 },
                 {
@@ -3405,13 +3405,13 @@
                     "ID": "173",
                     "typeID": "Label",
                     "zOrder": "173",
-                    "measuredW": "187",
+                    "measuredW": "204",
                     "measuredH": "25",
                     "x": "167",
                     "y": "2158",
                     "properties": {
                         "size": "17",
-                        "text": "然后试试看如何从中受益"
+                        "text": "然后试试看能从中得到什么"
                     }
                 },
                 {
@@ -4113,20 +4113,20 @@
                     "y": "2547",
                     "properties": {
                         "size": "17",
-                        "text": "现在有越来越多要求掌握 React.js 的需求了"
+                        "text": "现在有越来越多的需求要求掌握 React.js 了"
                     }
                 },
                 {
                     "ID": "223",
                     "typeID": "Label",
                     "zOrder": "223",
-                    "measuredW": "391",
+                    "measuredW": "374",
                     "measuredH": "25",
                     "x": "885",
                     "y": "2574",
                     "properties": {
                         "size": "17",
-                        "text": "你可以最终选择列表中的任何一个然后去深入了解它"
+                        "text": "你可以选择列表中的任何一个，然后去深入了解它"
                     }
                 },
                 {
@@ -4206,39 +4206,39 @@
                     "ID": "229",
                     "typeID": "Label",
                     "zOrder": "229",
-                    "measuredW": "510",
+                    "measuredW": "663",
                     "measuredH": "25",
                     "x": "588",
                     "y": "2912",
                     "properties": {
                         "size": "17",
-                        "text": "现在你已经掌握了构建一个现代化 JavaScript 应用的 _所有知识_ 了。"
+                        "text": "现在你已经掌握了构建一个现代化 JavaScript 应用可能需要的 _所有知识_ 了。继续前进，"
                     }
                 },
                 {
                     "ID": "230",
                     "typeID": "Label",
                     "zOrder": "230",
-                    "measuredW": "408",
+                    "measuredW": "640",
                     "measuredH": "25",
                     "x": "588",
                     "y": "2942",
                     "properties": {
                         "size": "17",
-                        "text": "继续前进，使用你所选择的任何框架来制作一个应用。"
+                        "text": "使用你所选择的任何框架来制作一个应用。你可以试试在 `ideas` 文件夹内找一些灵感"
                     }
                 },
                 {
                     "ID": "231",
                     "typeID": "Label",
                     "zOrder": "231",
-                    "measuredW": "521",
+                    "measuredW": "506",
                     "measuredH": "25",
                     "x": "588",
                     "y": "2969",
                     "properties": {
                         "size": "17",
-                        "text": "你可以在 `ideas` 文件夹内找一些灵感。随便选择一个，然后开始吧！"
+                        "text": "（译注：然而原作者忘了写 ideas）。随便选择一个，然后开始吧！"
                     }
                 },
                 {
@@ -4403,20 +4403,20 @@
                     "y": "3143",
                     "properties": {
                         "size": "17",
-                        "text": "然而，在你学习他们之前，我会建议你先去首先理解不同的测试类型，尝试所有可能的选"
+                        "text": "然而，在你学习他们之前，我会建议你先去理解不同的测试类型，尝试所有的测试工具，"
                     }
                 },
                 {
                     "ID": "243",
                     "typeID": "Label",
                     "zOrder": "243",
-                    "measuredW": "306",
+                    "measuredW": "272",
                     "measuredH": "25",
                     "x": "594",
                     "y": "3167",
                     "properties": {
                         "size": "17",
-                        "text": "项，然后选择最适合你需要的那些工具。"
+                        "text": "然后选择最适合你需要的那些工具。"
                     }
                 },
                 {
@@ -5383,26 +5383,26 @@
                     "ID": "301",
                     "typeID": "Label",
                     "zOrder": "301",
-                    "measuredW": "470",
+                    "measuredW": "487",
                     "measuredH": "25",
                     "x": "526",
                     "y": "1927",
                     "properties": {
                         "size": "17",
-                        "text": "有很多种方式来让你的 CSS 的结构更好，让它变得更易于维护"
+                        "text": "有很多种方案可以让你的 CSS 的结构变得更好，变得更易于维护"
                     }
                 },
                 {
                     "ID": "302",
                     "typeID": "Label",
                     "zOrder": "302",
-                    "measuredW": "435",
+                    "measuredW": "469",
                     "measuredH": "25",
                     "x": "527",
                     "y": "1952",
                     "properties": {
                         "size": "17",
-                        "text": "你需要知道他们的区别 – 就我个人来说我更经常使用 BEM"
+                        "text": "你需要知道它们之间的区别 – 就我个人来说我更经常使用 BEM"
                     }
                 },
                 {
