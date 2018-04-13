@@ -15,7 +15,7 @@
 
 ## 声明
 
-![这个路线图的本意是让你对整体有一个大致的了解，并能在当你为接下来需要学习什么而感到困惑时引导你，而不是鼓励你去学习那些时尚和潮流的东西 (what is hip and trendy)。你应该对关于 *为什么一个工具在某些场景下比另一个更适合使用有自己的理解 (grow some understanding)，并记住时尚和潮流永远不意味着它最适合这份工作 (best suited for the job)*](./images/disclaimer.png)
+> 这个路线图的本意是让你对整体有一个大致的了解，并能在当你为接下来需要学习什么而感到困惑时引导你，而不是鼓励你去学习那些时尚和潮流的东西 (what is hip and trendy)。你应该对关于 **为什么一个工具在某些场景下比另一个更适合使用有自己的理解 (grow some understanding)，并记住时尚和潮流永远不意味着它最适合这份工作 (best suited for the job)**
 
 ## 🚀 介绍
 
