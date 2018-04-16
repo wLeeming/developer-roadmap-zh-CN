@@ -1,4 +1,4 @@
-> 路线图的文字表单形式，欢迎 fork 并用来跟踪你的学习进度
+> 路线图的文本清单形式，欢迎 fork 并用来跟踪你的学习进度
 
 > 翻译：@ccloli  
 > 译注：本文仅对原文进行原样翻译，文章及图片中提到的个人观点均为原作者之观点。因个人翻译水平有限，翻译文本可能会稍有出入或略带意译。对于可能有明显歧义的地方，会在文后标记英文原文。如果您有翻译改进之建议，欢迎提交 issue 或 PR。提交 issue 与 PR 以改进翻译为主，如果您认为路线图可以改进，建议您向原 repo 提交贡献，谢谢。
@@ -31,15 +31,15 @@
 
 ## Step 2 – 练习你已经学到的！
 
-I say this a lot and I will say it here again, you don’t learn anything without practice. You might have a momentary feeling that you understand something but it would soon go away if you don’t practice. Make sure that you practice as much as you can, while you are following this roadmap.
+尽管我说了很多遍，但是我还是要再强调一次「实践出真知」。如果你不勤加练习的话，你会有一种似乎已经学会了它的感觉，但是很快你就会把它忘了。在你按照这个路线图学习时，尽可能地让自己多进行练习。
 
-做一些响应式的页面，并使用 JavaScript 进行一些交互。 You can copy any existing webpage that you might find interesting but **remember to use everything that you have learnt till this point**.
+做一些响应式的页面，并使用 JavaScript 进行一些交互。你可以临摹 (copy) 任何已有的你感兴趣的网页，但是 **记得用上你现在已经学到的所有知识**。
 
 ## Step 3 – 可选但是高度推荐
 
-Before you go any further, I would recommend you to go and learn some [git](https://git-scm.com/) if you haven't learnt already. it is really going to help you as you go further. You don't have to learn everything about it, just learn the below listed and keep learning as you continue and face any issues.
+如果你没有学习过 [git](https://git-scm.com/)，在你进一步学习之前，我建议你先去了解一下它。它确实能帮助你进一步地学习。你不需要学习它的所有东西，你只需要先学习下面列出的东西（译注：然而作者并没有列出来，那么我先暂时在这里钦定下 [这篇文章](http://blog.gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/)），然后在你遇到任何问题时再继续学习。
 
-Its time to get into the real business now. 打开 [Github](https://github.com)，搜索一些项目，然后给开源项目开一些 pull request。下面是一些关于 pull request 的建议：
+是时候进行一些实战啦！打开 [Github](https://github.com)，搜索一些项目，然后给开源项目开一些 pull request。下面是一些关于 pull request 的建议：
 - 提升 UI 效果，使一些示例页面实现响应式设计或增强设计效果
 - 寻找一些你能解决的 open issue
 - 重构一些代码，或者实现一些你学习过程中了解到的最佳实践
@@ -57,7 +57,7 @@ NPM 和 Yarn 在使用上是几乎一样的；你可以学习其中一个，你�
 
 ## Step 5 – 学习 CSS 预处理器
 
-预处理器能让你在 CSS 之上添加更强大的功能，让你做一些CSS 不能做到的事。There are different many options Sass, Less, Stylus etc. If I were to pick one, I would go for Sass. However, PostCSS has been gaining a lot of traction lately, 它可以说是锦上添花 (nice-to-have)，可以说是CSS 的“Babel”。你可以独立地使用它，也可以在 Sass 之上使用它。我建议你先学习 Sass，之后有时间再去了解下 PostCSS。
+预处理器能让你在 CSS 之上添加更强大的功能，让你做一些 CSS 不能做到的事。有诸如 Sass、Less、Stylus 等方案供你选择。如果让我来选择的话，我会选择 Sass。然而，PostCSS 最近获得了很多关注，它可以说是锦上添花 (nice-to-have)，可以说是 CSS 的“Babel”。你可以独立地使用它，也可以在 Sass 之上使用它。我建议你先学习 Sass，之后有时间再去了解下 PostCSS。
 
 - [ ] 选择其中一个
   - [ ] **Sass (建议)**
@@ -67,7 +67,7 @@ NPM 和 Yarn 在使用上是几乎一样的；你可以学习其中一个，你�
 
 ## Step 6 – 学习 CSS 框架
 
-This used to be way up in the chart, but I moved it down below as they aren't really needed any more and can be mastered without much effort. If you would want to pick any, there is one under every rock. The ones that I liked the most among the ones that I tried are Bootstrap, Materialize and Bulma. But if you look at their demand in market I would pick Bootstrap if I was starting today.
+这部分之前在图表中是在稍前的位置的，但是我把它移到了下面，因为它们确实不再那么需要了，你可以毫不费力地掌握它们。如果你想要挑一个，那就从你找到的框架中随便选一个吧 (there is one under every rock)。我比较喜欢的并且经常使用的包括 Bootstrap、Materialize 和 Bulma。但是如果更看重它们在市场上的需求，假设我是刚开始学习的话，我会选择 Bootstrap。
 
 - [ ] **Bootstrap (建议)**
 - [ ] Materialize CSS
@@ -75,7 +75,7 @@ This used to be way up in the chart, but I moved it down below as they aren't re
 
 ## Step 7 – 学习如何组织 CSS
 
-As your applications grow, CSS start to become messy and unmaintainable. 有很多种方案可以让你的 CSS 的结构变得更好
+随着你的应用的内容组建变得丰富，CSS 开始变得混乱和难以维护。有很多种方案可以让你的 CSS 的结构变得更好
 
 - [ ] **BEM – 建议**
 - [ ] OOCSS
@@ -85,21 +85,21 @@ As your applications grow, CSS start to become messy and unmaintainable. 有很�
 
 ## Step 8 – 学习构建工具
 
-These are the tools that help you in bundling, building and development of your frontend applications
+这些工具能帮助你捆绑合并、构建和开发你的前端应用。
 
-There used to be alot of stuff in the task runners but today 我会选择使用 NPM scripts, 当然如果你想要去选择其他的，参考一下 gulp
+曾经有很多任务执行工具，但是现在我会选择使用 NPM scripts，当然如果你想要去选择其他的，参考一下 gulp
 
 - [ ] **NPM Scripts (建议)**
 - [ ] Gulp
 
-There are several linters, but I would go for ESLint. Feel free to have a look at others and see why one over the other
+另外还有一些代码风格检测工具，我会选择 ESLint。感兴趣的话你也可以看看别的，然后了解为什么这个会更好 (and see why one over the other)
 
 - [ ] **ESLint (建议)**
 - [ ] JSLint
 - [ ] JSHint
 - [ ] JSCS
 
-**开发应用时用 Webpack，开发库时用 Rollup**。当然，你现在还不需要 rollup；它能做的事，webpack 也可以做，so go for Webpack and look into Rollup later
+**开发应用时用 Webpack，开发库时用 Rollup**。当然，你现在还不需要 rollup；它能做的事，webpack 也可以做，所以先用用 Webpack，然后之后再深入了解 Rollup
 
 - [ ] **Webpack (建议)**
 - [ ] Rollup
@@ -107,7 +107,7 @@ There are several linters, but I would go for ESLint. Feel free to have a look a
 
 ## Step 9 – 做些东西 – 比如一个库
 
-Go to Github and Have a look at the source code of libraries that people have made, pick an idea and make some library with the below listed requirements
+打开 Github，然后看看大家做的那些库的源代码，选择一个点子然后做一些包含以下要求的库
 
 - [ ] 它使用了 Sass 来编写样式
 - [ ] 它使用了 ES6 编写
@@ -116,7 +116,7 @@ Go to Github and Have a look at the source code of libraries that people have ma
 
 ## Step 10 – 学习一个框架
 
-There are several options, when it comes to frameworks. However, below listed frameworks are the ones that I would recommend. You can pick any of them, however if you ask me for the personal picks I would choose React or Angular. However, have a look at any of them and see what you like
+谈到框架，你同样有多种选择。但是我会推荐下面列出来的这些框架。你可以随便选择其中一个，不过如果你想问我个人选择的话，我会选择 React 或者 Angular。当然把它们都试试看吧，然后看看你会喜欢什么
 
 - [ ] **React**
   - [ ] Redux - 适合大规模应用，也可以在 react 外使用
@@ -133,11 +133,11 @@ There are several options, when it comes to frameworks. However, below listed fr
 
 ## Step 12 – 学习性能
 
-Once you are done making the application from Step 9, 学习如何**管理和提升你的应用的性能**。比如 **Interactivity Time**、**Page Speed Index**、**Lighthouse Score** 等。
+当你做完了第 9 步的应用时，学习如何 **管理和提升你的应用的性能**。比如 **可交互时间 (Interactivity Time)**、**页面速度指标 (Page Speed Index)**、**Lighthouse 评分 (Lighthouse Score)** 等。
 
 ## Step 13 – 测试你的应用
 
-现在有越来越多的针对 *不同需求* 的测试工具。我自己大多结合 Jest、Mocha、Karma 和 Enzyme 使用。然而，在你学习他们之前，建议你**先去理解不同的测试类型**，尝试所有的测试工具，然后选择最适合你需要的那些工具。
+现在有越来越多的针对 *不同需求* 的测试工具。我自己大多结合 Jest、Mocha、Karma 和 Enzyme 使用。然而，在你学习他们之前，建议你 **先去理解不同的测试类型**，尝试所有的测试工具，然后选择最适合你需要的那些工具。
 
 这里有一份很好的总结帮助你开始学习 – [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
 
@@ -153,14 +153,14 @@ Once you are done making the application from Step 9, 学习如何**管理和提
 
 ## Step 15 – 静态类型检查工具
 
-Static type checkers help you to add type checking to JavaScript. 你不需要去学习它们，但是他们确实能给你带来强大动力，并且只需要几个小时就能掌握。There is mainly TypeScript and Flow. 我喜欢 TypeScript，所以会选择它，当然欢迎你两个都试试然后再选择。
+静态类型检查工具帮助你在 JavaScript 中引入类型检查。你不需要去学习它们，但是他们确实能给你带来强大动力，并且只需要几个小时就能掌握。它们主要有 TypeScript 和 Flow。我喜欢 TypeScript，所以我会选择它，当然欢迎你两个都试试然后再选择。
 
 - [ ] **TypeScript (建议)**
 - [ ] Flow
 
 ## Step 16 – 学习服务端渲染
 
-There are different options, depending on what framework you are using
+同样有几种方案，这取决你使用的是什么框架
 
 - [ ] React
   - [ ] Next.js
