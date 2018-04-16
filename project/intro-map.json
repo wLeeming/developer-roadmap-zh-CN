@@ -441,7 +441,7 @@
                     "typeID": "TextInput",
                     "zOrder": "21",
                     "w": "258",
-                    "measuredW": "86",
+                    "measuredW": "122",
                     "measuredH": "32",
                     "x": "68",
                     "y": "228",
@@ -449,7 +449,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "学习研究"
+                        "text": "学习研究能力"
                     }
                 },
                 {

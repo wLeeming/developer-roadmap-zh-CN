@@ -2409,7 +2409,7 @@
                     "y": "1067",
                     "properties": {
                         "size": "17",
-                        "text": "的学习方式，以及让你认识到自己是否走在正确的道"
+                        "text": "的学习方式，并能让你认识到自己是否走在正确的道"
                     }
                 },
                 {
@@ -2805,7 +2805,7 @@
                     "properties": {
                         "bold": "true",
                         "size": "17",
-                        "text": "现在就学习 Sass 吧"
+                        "text": "现在先学习 Sass 吧"
                     }
                 },
                 {
@@ -3366,13 +3366,13 @@
                     "ID": "170",
                     "typeID": "Label",
                     "zOrder": "170",
-                    "measuredW": "300",
+                    "measuredW": "249",
                     "measuredH": "25",
                     "x": "930",
                     "y": "1608",
                     "properties": {
                         "size": "17",
-                        "text": "我个人会建议你现在就开始学习 Sass。"
+                        "text": "我个人会建议你现在先学习 Sass"
                     }
                 },
                 {
@@ -3405,26 +3405,26 @@
                     "ID": "173",
                     "typeID": "Label",
                     "zOrder": "173",
-                    "measuredW": "204",
+                    "measuredW": "221",
                     "measuredH": "25",
                     "x": "167",
                     "y": "2158",
                     "properties": {
                         "size": "17",
-                        "text": "然后试试看能从中得到什么"
+                        "text": "然后试试看它能够给你带来些"
                     }
                 },
                 {
                     "ID": "174",
                     "typeID": "Label",
                     "zOrder": "174",
-                    "measuredW": "5",
+                    "measuredW": "68",
                     "measuredH": "25",
                     "x": "167",
                     "y": "2185",
                     "properties": {
                         "size": "17",
-                        "text": " "
+                        "text": "什么益处"
                     }
                 },
                 {
@@ -4154,7 +4154,8 @@
                     "x": "541",
                     "y": "2870",
                     "properties": {
-                        "color": "16777215"
+                        "color": "16777215",
+                        "text": ""
                     }
                 },
                 {
@@ -4252,7 +4253,8 @@
                     "x": "543",
                     "y": "3070",
                     "properties": {
-                        "color": "16776960"
+                        "color": "16776960",
+                        "text": ""
                     }
                 },
                 {
@@ -4955,14 +4957,14 @@
                     "ID": "278",
                     "typeID": "Label",
                     "zOrder": "278",
-                    "measuredW": "272",
+                    "measuredW": "646",
                     "measuredH": "25",
                     "x": "588",
                     "y": "3002",
                     "properties": {
                         "color": "13576743",
                         "size": "17",
-                        "text": "学习如何管理和提升你的应用的性能"
+                        "text": "学习如何管理和提升你的应用的性能。比如可交互时间 (Interactivity Time)、页面速度"
                     }
                 },
                 {
@@ -4985,14 +4987,14 @@
                     "ID": "280",
                     "typeID": "Label",
                     "zOrder": "280",
-                    "measuredW": "507",
+                    "measuredW": "508",
                     "measuredH": "25",
                     "x": "587",
                     "y": "3027",
                     "properties": {
                         "color": "13576743",
                         "size": "17",
-                        "text": "比如 Interactivity Time、Page Speed Index、Lighthouse Score 等"
+                        "text": "指标 (Page Speed Index)、Lighthouse 评分 (Lighthouse Score) 等"
                     }
                 },
                 {

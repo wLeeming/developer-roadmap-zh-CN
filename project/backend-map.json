@@ -2489,7 +2489,7 @@
                     "y": "691",
                     "properties": {
                         "size": "17",
-                        "text": "或者 Clojure，它绝对会给你提供一个崭新的视角。"
+                        "text": "或者 Clojure，它绝对会给你带来一个崭新的视角。"
                     }
                 },
                 {
@@ -3290,13 +3290,13 @@
                     "ID": "163",
                     "typeID": "Label",
                     "zOrder": "163",
-                    "measuredW": "449",
+                    "measuredW": "440",
                     "measuredH": "25",
                     "x": "791",
                     "y": "1125",
                     "properties": {
                         "size": "17",
-                        "text": "这取决于你所选择的语言。*Google* 一下，看看这些方案，"
+                        "text": "这取决于你所选择的语言。 *Google* 一下，看看这些方案，"
                     }
                 },
                 {

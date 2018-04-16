@@ -1059,7 +1059,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "监测与警报"
+                        "text": "监测与预警"
                     }
                 },
                 {
@@ -3748,25 +3748,9 @@
                     }
                 },
                 {
-                    "ID": "166",
-                    "typeID": "TextInput",
-                    "zOrder": "166",
-                    "w": "182",
-                    "measuredW": "262",
-                    "measuredH": "32",
-                    "x": "60",
-                    "y": "208",
-                    "properties": {
-                        "align": "center",
-                        "color": "14540253",
-                        "size": "18",
-                        "text": "SUSE Linux Enterprise Server"
-                    }
-                },
-                {
                     "ID": "167",
                     "typeID": "TextInput",
-                    "zOrder": "167",
+                    "zOrder": "166",
                     "w": "182",
                     "measuredW": "80",
                     "measuredH": "32",
@@ -3782,7 +3766,7 @@
                 {
                     "ID": "168",
                     "typeID": "Arrow",
-                    "zOrder": "168",
+                    "zOrder": "167",
                     "w": "151",
                     "h": "108",
                     "measuredW": "150",
@@ -3812,7 +3796,7 @@
                 {
                     "ID": "169",
                     "typeID": "Arrow",
-                    "zOrder": "169",
+                    "zOrder": "168",
                     "w": "138",
                     "h": "88",
                     "measuredW": "150",
@@ -3842,7 +3826,7 @@
                 {
                     "ID": "170",
                     "typeID": "Arrow",
-                    "zOrder": "170",
+                    "zOrder": "169",
                     "w": "114",
                     "h": "66",
                     "measuredW": "150",
@@ -3872,7 +3856,7 @@
                 {
                     "ID": "171",
                     "typeID": "Arrow",
-                    "zOrder": "171",
+                    "zOrder": "170",
                     "w": "83",
                     "h": "34",
                     "measuredW": "150",
@@ -3902,7 +3886,7 @@
                 {
                     "ID": "172",
                     "typeID": "Arrow",
-                    "zOrder": "172",
+                    "zOrder": "171",
                     "w": "66",
                     "h": "32",
                     "measuredW": "150",
@@ -3932,7 +3916,7 @@
                 {
                     "ID": "173",
                     "typeID": "TextInput",
-                    "zOrder": "173",
+                    "zOrder": "172",
                     "w": "182",
                     "measuredW": "94",
                     "measuredH": "32",
@@ -3948,7 +3932,7 @@
                 {
                     "ID": "174",
                     "typeID": "TextInput",
-                    "zOrder": "174",
+                    "zOrder": "173",
                     "w": "182",
                     "measuredW": "86",
                     "measuredH": "32",
@@ -3964,7 +3948,7 @@
                 {
                     "ID": "175",
                     "typeID": "Arrow",
-                    "zOrder": "175",
+                    "zOrder": "174",
                     "w": "42",
                     "h": "120",
                     "measuredW": "150",
@@ -3994,7 +3978,7 @@
                 {
                     "ID": "176",
                     "typeID": "Arrow",
-                    "zOrder": "176",
+                    "zOrder": "175",
                     "w": "35",
                     "h": "85",
                     "measuredW": "150",
@@ -4024,7 +4008,7 @@
                 {
                     "ID": "177",
                     "typeID": "TextInput",
-                    "zOrder": "177",
+                    "zOrder": "176",
                     "w": "182",
                     "measuredW": "78",
                     "measuredH": "32",
@@ -4040,7 +4024,7 @@
                 {
                     "ID": "178",
                     "typeID": "Arrow",
-                    "zOrder": "178",
+                    "zOrder": "177",
                     "w": "27",
                     "h": "49",
                     "measuredW": "150",
@@ -4070,7 +4054,7 @@
                 {
                     "ID": "179",
                     "typeID": "Label",
-                    "zOrder": "179",
+                    "zOrder": "178",
                     "measuredW": "94",
                     "measuredH": "26",
                     "x": "814",
@@ -4084,11 +4068,28 @@
                         "italic": "false",
                         "underline": "false"
                     }
+                },
+                {
+                    "ID": "180",
+                    "typeID": "TextArea",
+                    "zOrder": "179",
+                    "w": "182",
+                    "h": "52",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "59",
+                    "y": "208",
+                    "properties": {
+                        "text": "SUSE Linux Enterprise Server",
+                        "size": "18",
+                        "align": "center",
+                        "color": "14540253"
+                    }
                 }
             ]
         },
         "mockupH": "1715",
-        "mockupW": "1414",
+        "mockupW": "1415",
         "measuredW": "1474",
         "measuredH": "1731",
         "version": "1.0"

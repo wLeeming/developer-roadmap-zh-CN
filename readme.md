@@ -4,7 +4,7 @@
 
 > 译注：本文仅对原文进行原样翻译，文章及图片中提到的个人观点均为原作者之观点。因个人翻译水平有限，翻译文本可能会稍有出入或略带意译。对于可能有明显歧义的地方，会在文后标记英文原文。如果您有翻译改进之建议，欢迎提交 issue 或 PR。提交 issue 与 PR 以改进翻译为主，如果您认为路线图可以改进，建议您向原 repo 提交贡献，谢谢。
 
-接下来你将会看到一组图表，它们展示了成为前端开发、后端开发或者 devops 的可以选择的路线以及技术。我为我的一位老教授制作了这些图表，他想要分享给他的大学生们一些关于此的概览。
+接下来你将会看到一组图表，它们展示了成为前端开发、后端开发或者 devops 时可以选择的路线以及技术。这些图表是我为我的一位老教授制作的，他想要分享一些关于它们的概况给他的大学生们。
 
 ***
 
@@ -50,10 +50,10 @@
 
 路线图使用 [Balsamiq](https://balsamiq.com/products/mockups/) 构建。项目文件可以在 `/project` 文件夹找到。要修改路线图，打开 Balsamiq，点击 **Project > Import > Mockup JSON**，路线图将展现在你眼前，修改它，上传并修改 README 中的图片，然后提交 PR。
 
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
+- 提交改进的 pull request
+- 在 issues 讨论建议
+- 分享给大家
+- 和我联系提供反馈 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
 
 ## 赞助
 
